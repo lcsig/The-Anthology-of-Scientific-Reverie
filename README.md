@@ -10,7 +10,7 @@ A curated collection of thought-provoking works that inspire, illuminate, and tr
 ## Mathmatics and Physics 
 - The observer effect in Abelian Probability Theory (http://dx.doi.org/10.1109/COGSIMA.2018.8423983)
 - Fair coins tend to land on the same side they started: Evidence from 350,757 flips (https://arxiv.org/abs/2310.04153)
-- Why probability probably doesn’t exist (but it is useful to act like it does) (https://www.nature.com/articles/d41586-024-04096-5)
+- Why probability probably doesn’t exist (but it is useful to act like it does) (https://doi.org/10.1038/d41586-024-04096-5)
 
 ## Artificial Intelligence 
 - The Platonic Representation Hypothesis (https://arxiv.org/abs/2405.07987)
