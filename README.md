@@ -24,6 +24,7 @@ A curated collection of thought-provoking works that inspire, illuminate, and tr
 - How much is my paper worth? (https://pmc.ncbi.nlm.nih.gov/articles/PMC6822591)
 - The importance of stupidity in scientific research (https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 - Psychology of the scientist: An analysis of problem-solving bias (https://link.springer.com/article/10.1007/BF01186796)
+- The illusion of information adequacy (https://doi.org/10.1371/journal.pone.0310216)
 
 ## Signals 
 - Galactic Neutral Hydrogen Structures Spectroscopy and Kinematics: Designing a Home Radio Telescope for 21 cm Emission (https://arxiv.org/pdf/2411.00057)
@@ -37,6 +38,8 @@ A curated collection of thought-provoking works that inspire, illuminate, and tr
 - Valhalla (https://www.youtube.com/watch?v=IF9l8fYfSnI)
 
 ## Buy me a Coffee
-BTC: bc1q2kqvggm552h0csyr0awa2zepdapxdqnacw0z5w
+Numerous remarkable efforts are underway, yielding astonishing results. Researchers and individuals globally are tirelessly contemplating and exploring the wonders of this incredible universe. I am not assessing anyone's research at this work, nor do I possess a particular criterion for listing the papers. I regularly update these, but I have no intention of accumulating thousands of papers. It's all about the select few that truly engage my thoughts for an entire day!
+
+bitcoin:bc1q2kqvggm552h0csyr0awa2zepdapxdqnacw0z5w
 
 ![BTC](https://raw.githubusercontent.com/lcsig/API-Hooking/refs/heads/master/img/btc.png)
