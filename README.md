@@ -25,6 +25,7 @@ A curated collection of thought-provoking works that inspire, illuminate, and tr
 - The importance of stupidity in scientific research (https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 - Psychology of the scientist: An analysis of problem-solving bias (https://link.springer.com/article/10.1007/BF01186796)
 - The illusion of information adequacy (https://doi.org/10.1371/journal.pone.0310216)
+- Weber–Fechner Law (https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 
 ## Signals 
 - Galactic Neutral Hydrogen Structures Spectroscopy and Kinematics: Designing a Home Radio Telescope for 21 cm Emission (https://arxiv.org/pdf/2411.00057)
