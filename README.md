@@ -38,6 +38,7 @@ A curated collection of thought-provoking works that inspire, illuminate, and tr
 
 ## Software Engineering 
 - Valhalla (https://www.youtube.com/watch?v=IF9l8fYfSnI)
+- SIEVE is Simpler than LRU: an Efficient Turn-Key Eviction Algorithm for Web Caches (https://junchengyang.com/publication/nsdi24-SIEVE.pdf)
 
 ## Buy me a Coffee
 Numerous remarkable efforts are underway, yielding astonishing results. Researchers and individuals globally are tirelessly contemplating and exploring the wonders of this incredible universe. I am not assessing anyone's research at this work, nor do I possess a particular criterion for listing the papers. I regularly update these, but I have no intention of accumulating thousands of papers. It's all about the select few that truly engage my thoughts for an entire day!
