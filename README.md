@@ -27,6 +27,7 @@ A curated collection of thought-provoking works that inspire, illuminate, and tr
 - The illusion of information adequacy (https://doi.org/10.1371/journal.pone.0310216)
 - Weber–Fechner Law (https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 - Social cycling and conditional responses in the Rock-Paper-Scissors game (https://arxiv.org/abs/1404.5199v1)
+- 10 Useful Findings About How People View Websites (https://cxl.com/blog/10-useful-findings-about-how-people-view-websites/)
 
 ## Signals 
 - Galactic Neutral Hydrogen Structures Spectroscopy and Kinematics: Designing a Home Radio Telescope for 21 cm Emission (https://arxiv.org/pdf/2411.00057)
